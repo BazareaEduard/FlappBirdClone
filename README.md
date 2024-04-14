@@ -1,4 +1,4 @@
-#Flappy Bird Clone
+# Flappy Bird Clone
 This is my take on a clone for the game Flappy Bird.
 I tried to recreate the look and feel of the game, and while I think I did a pretty good job, the mechanics are still a little rough around the edges.
 In this project I experimented with basic physics, animation and movement for games purely made in C#.
