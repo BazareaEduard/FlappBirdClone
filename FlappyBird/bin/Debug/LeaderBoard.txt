@@ -1,0 +1,3 @@
+Nume          Scor
+hey          7
+Edi          35
